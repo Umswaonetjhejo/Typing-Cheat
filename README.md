@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Typing Test Automation</title>
+    
 </head>
 <body>
     <h1>Typing Test Automation</h1>
